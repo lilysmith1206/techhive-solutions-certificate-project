@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/CodeChunks.db
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/CodeChunks.db-shm
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/CodeChunks.db-wal
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/SemanticSymbols.db
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/SemanticSymbols.db-shm
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/CopilotIndices/17.13.400.13238/SemanticSymbols.db-wal
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/DesignTimeBuild
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/DesignTimeBuild/.dtbcache.v2
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex/1215efaa-4b4a-418b-acaa-99a8f90c687a.vsidx
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex/4d5651eb-e046-47f4-bb71-de5ce45d16b7.vsidx
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex/63a0300a-2c25-4d9f-8fbc-8ee87681937a.vsidx
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex/69e0cf57-7f55-4da8-b1f8-3d014dd0caae.vsidx
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Managemen API/FileContentIndex/c14d6de3-d048-43c8-9d1f-3450942e804e.vsidx
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/config
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/config/applicationhost.config
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/v17
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/v17/.suo
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/v17/DocumentLayout.backup.json
+/TechHive Solutions User Managemen API/.vs/TechHive Solutions User Management API/v17/DocumentLayout.json

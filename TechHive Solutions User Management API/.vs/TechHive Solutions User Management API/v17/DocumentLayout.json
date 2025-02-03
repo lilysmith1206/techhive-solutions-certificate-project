@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API.csproj|solutionrelative:techhive solutions user managemen api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\techhive solutions user management api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\techhive solutions user management api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|c:\\users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\techhive solutions user managemen api\\techhive solutions user managemen api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87013118-EAF9-44D7-BD65-739EDBE714D9}|TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj|solutionrelative:techhive solutions user managemen api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\.gitignore",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\.gitignore",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\.gitignore",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-03T19:29:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TechHive Solutions User Management API",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\TechHive Solutions User Management API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:29:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:28:17.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:27:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Models\\User.cs",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:17:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\appsettings.json",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\appsettings.json",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T18:54:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:31:30.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Program.cs",
+              "RelativeDocumentMoniker": "TechHive Solutions User Managemen API\\Program.cs",
+              "ToolTip": "C:\\Users\\lsmith\\source\\repos\\techhive-solutions-certificate-project\\TechHive Solutions User Managemen API\\TechHive Solutions User Managemen API\\Program.cs",
+              "RelativeToolTip": "TechHive Solutions User Managemen API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:15:32.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
