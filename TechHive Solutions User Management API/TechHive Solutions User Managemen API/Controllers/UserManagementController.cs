@@ -24,8 +24,24 @@ public class UserManagementController(IUserRepository userRepository, ILogger<Us
 
     [HttpPost]
     [Route(nameof(CreateUser))]
-    public int CreateUser([FromQuery] string name)
+    public ActionResult<int> CreateUser([FromQuery] string name)
     {
+        if (string.IsNullOrEmpty(name))
+        {
+            return BadRequest("Error: Name cannot be empty.");
+        }
+
+        if (name.Length < 5)
+        {
+            return BadRequest("Error: Name must be at least 5 characters long.");
+        }
+
+        if (name.Length > 40)
+        {
+            return BadRequest("Error: Name cannot exceed 40 characters.");
+        }
+
+
         return userRepository.AddUser(name);
     }
 
